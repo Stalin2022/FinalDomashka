@@ -1,0 +1,15 @@
+C:\Users\tranc\Desktop\code\bin\Debug\net6.0\code.exe
+C:\Users\tranc\Desktop\code\bin\Debug\net6.0\code.deps.json
+C:\Users\tranc\Desktop\code\bin\Debug\net6.0\code.runtimeconfig.json
+C:\Users\tranc\Desktop\code\bin\Debug\net6.0\code.dll
+C:\Users\tranc\Desktop\code\bin\Debug\net6.0\code.pdb
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.csproj.AssemblyReference.cache
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.dll
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\refint\code.dll
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.pdb
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\code.genruntimeconfig.cache
+C:\Users\tranc\Desktop\code\obj\Debug\net6.0\ref\code.dll
